@@ -1,0 +1,31 @@
+# Music Video Studio — MVP Definition
+
+## Goal
+A user can take their own song + video clips and produce a beat-synced music video they are proud to share, in under 30 minutes.
+
+## Must-Have Features
+- [ ] Import local video files and audio track
+- [ ] Display audio waveform with beat markers
+- [ ] Multi-track timeline (at least: main video, music, text)
+- [ ] Trim and split clips
+- [ ] Snap cuts to beats (manual or assisted)
+- [ ] Add and style lyric/text overlays
+- [ ] Real-time preview
+- [ ] Export 1080p (16:9 and 9:16)
+
+## Nice-to-Have (post-MVP)
+- AI auto-edit / clipping
+- Templates
+- Color grading
+- Green screen / background removal
+- Keyframing
+- Cloud project sync
+
+## Success Criteria
+- Timeline scrubbing feels responsive on mid-range devices
+- Export completes without quality loss or sync issues
+- User can complete a simple music video without external tools
+
+## Constraints
+- Music must be user-provided or licensed royalty-free
+- On-device processing preferred for privacy and speed
